@@ -8,15 +8,15 @@ if (a%4 == 0)
 if(a%100 == 0)
 {
 if(a%400 == 0)
-printf("LEAP YEAR.");
+printf("yes");
 else
-printf("NOT LEAP YEAR.");
+printf("no");
 }
 else
 {
-printf ("LEAP YEAR.");
+printf ("yes");
 }
 }
 else
-printf("NOT LEAP YEAR.");
+printf("no");
 }
