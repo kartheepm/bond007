@@ -11,6 +11,5 @@ for(i=0;i<=j;i++)
 {if (a[i]==a[i+1]&&b[i]==b[i+1])
 printf("yes");
 else
-printf("no");}
 return 0;
-}
+}}
